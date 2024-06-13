@@ -21,6 +21,14 @@ Repositório criado para armazenar informações do artigo escrito com uso de IA
 * Explore Pesquisas Científicas Sobre Robótica e Autismo
 * Conclusão
 
+## Trabalhos citados 📖
+O trabalho "O Potencial da Robótica no Tratamento Terapêutico de Crianças com Transtorno do Espectro Autista" serviu de incentivo para a publicação do artigo e destaca a importância de estudos como esse.
+
+Autores: Gabriel R. B. de Sousa Rebouças, Izamara V. D. S. Neves, Elton M. Lima, Thais Reggina Kempner, Eunice P. dos Santos Nunes, Luciana C. L. de Faria Borges. <br>
+Faculdade de Engenharia de Várzea Grande - Universidade Federal de Mato Grosso (UFMT), Instituto de Computação - Universidade Federal de Mato Grosso (UFMT)
+
+Disponível em: [https://sol.sbc.org.br/index.php/wics/article/view/24841](https://sol.sbc.org.br/index.php/wics/article/view/24841)
+
 ## Links Úteis 🔗
 - **ChatGPT**: [https://chatgpt.com/](https://chatgpt.com/)
 - **Léxica**: [https://lexica.art/](https://lexica.art/)
